@@ -11,3 +11,5 @@ This is not a production pipeline and does not contain employer telemetry.
 Companion: [`sensor-array`](https://github.com/kb-bell/sensor-array)
 
 See the profile: https://github.com/kb-bell
+
+**License:** MIT © 2026 [KB Bell](https://github.com/kb-bell). If you reuse this lab, keep the copyright notice.
